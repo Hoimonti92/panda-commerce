@@ -3,7 +3,7 @@
     margin-bottom: 100px;
 }
 .orange-bg{
-    background-color: #fceae8;
+    background-color: #fce8e8;
     border-radius: 10px;
 }
 .carousel-item{
@@ -21,3 +21,56 @@
     cursor: pointer; 
 }
 /* Carousel end css */
+
+/* Brod(watch,bag,shoes) start */
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 15px;
+}
+.cat1{
+    background-color: orange;
+
+}
+.cat2{
+    background-color: orchid;
+}
+.cat3{
+    background-color: blue;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
+/* Brod(watch,bag,shoes) end */
+
+/* Card shoes section start */
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgrey;
+}
+/* Card shoes section end */
+
+/* Card backpack section start */
+.card-footer{
+    background-color: lightpink;
+    border-top: none;
+}
+/* Card backpack section end */
+
+/* Subscribe section start */
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+/* Subscribe section end */
+
+/* footer start */
+footer{
+    text-align: center;
+}
+/* footer end */
